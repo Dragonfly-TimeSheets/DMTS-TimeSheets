@@ -1,0 +1,9 @@
+node_modules/
+.vite/
+.DS_Store
+android/
+ios/
+.idea/
+.vscode/
+*.log
+npm-debug.log*
